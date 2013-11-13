@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # declare your pins
-declare -a pins=(7 0 4 1 5 2 3)
-declare -a arrayh=(0 4 5 2 3)
-declare -a arraye=(7 1 5 2 3)
-declare -a arrayl=(1 5 2)
+declare -a pins=(7 0 4 1 5 11 3)
+declare -a arrayh=(0 4 5 11 3)
+declare -a arraye=(7 1 5 11 3)
+declare -a arrayl=(1 5 11)
 declare -a arrayo=(4 1 5 3)
 declare -a hello=(h e l l o)
 
